@@ -25,3 +25,6 @@ The app will be available at `http://localhost:3000` with the backend running on
 
 ---
 *This README was also written by AI.*
+
+Human written: Here is a screenshot:
+<img width="1163" alt="Screenshot 2025-05-22 at 7 39 17 PM" src="https://github.com/user-attachments/assets/346b0855-97ee-4381-b9a3-8e89f994395c" />
