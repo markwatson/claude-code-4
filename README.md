@@ -1,5 +1,5 @@
 > [!CAUTION]
-> Don't use this application! It was entirely vibe coded with Claude Code 4. Security is likely lacking! For example, you need to set an env variable "JWT_SECRET" to something secure. The AI did seem to write code that reads it for JWT signing, but never mentioned it anywhere, and it doesn't validate that it's set. I have not audited this code at all, so relying on it for anything would be very risky.
+> Don't use this application! It was entirely vibe coded with Claude Code 4. Security is likely lacking! For example, you need to set an env variable "JWT_SECRET" to something secure. The AI did seem to write code that reads it for JWT signing, but never mentioned it anywhere, and it doesn't validate that it's set. I have not audited this code at all, so relying on it for anything would be very risky. - Human
 
 # AI-Generated Todo App
 
